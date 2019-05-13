@@ -18,7 +18,7 @@
    + Wrote programs to anaylze physics experiments
 
 
-**Associate of Science in Science and Mathematics** and **Associate of Science in Physics** from Raritan Valley Community College_ in New Jersey  
+**Associate of Science in Science and Mathematics** and **Associate of Science in Physics** from _Raritan Valley Community College_ in New Jersey  
 *July 2011 - December 2012*
    + Developed habits of independent learning  
      + started using online education resource such as MIT Open Course Ware
