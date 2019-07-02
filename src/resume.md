@@ -3,6 +3,7 @@ geometry: margin=2cm
 ---
 
 # Eric Fay
+[www.linkedin.com/in/EricDFay](www.linkedin.com/in/EricDFay)
 
 **Mathematics Teacher** at _Woodland Jr/Sr High School_ in Baileyville Maine   
 September 2016 - June 2018  
@@ -29,7 +30,7 @@ July 2011 - December 2012
 
    + Developed habits of independent learning  
      + started using online education resource such as MIT Open Course Ware
-     + Met after classes with friend to share knowledge
+     + Initiated informal study group on advance mathematics topics such as abstract algebra and tensor analysis
    + Practiced comunicating technical information in small groups
    + Tutored physics
    + Learned to present solution neatly with diagrams and calculations for fellow engineers to validate

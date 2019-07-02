@@ -1,5 +1,4 @@
-View my resume [here](http://htmlpreview.github.io/?https://github.com/EricDFay/resume/blob/master/pub/Eric_Fay
-    _Resume.html).
+View my resume [here](http://htmlpreview.github.io/?https://github.com/EricDFay/resume/blob/master/pub/Eric_Fay_Resume.html).
 ## Description
 This repository has two purposes:  
 1. Publish my **resume** online in [HTML](http://htmlpreview.github.io/?https://github.com/EricDFay/resume/blob/master/pub/Eric_Fay_Resume.html), [pdf](https://github.com/EricDFay/resume/blob/master/pub/Eric_Fay_Resume.pdf), and [txt](https://raw.githubusercontent.com/EricDFay/resume/master/pub/Eric_Fay_Resume.txt)
