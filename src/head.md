@@ -8,8 +8,12 @@ you can create a HTML, pdf, and text file from
 your resume.
 
 ## Instructions  
-1. Clone this repository. `git clone https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet`  
+1. Clone this repository. `git clone https://github.com/EricDFay/resume.git`  
+2. Change directories. `cd resume`
 2. Edit `src/resume.md` to contain the contents of your resume. See this [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help on using the markdown language.  
 3. Edit the variables in the bash file `publish.sh` with your name.
 4. Delete my resume. `rm pub/Eric_Fay_Resume.{html,pdf,txt}`
 5. Run publish script. `./publish.sh`
+
+## My Resume
+Appened here is the markdown document of my resume.
