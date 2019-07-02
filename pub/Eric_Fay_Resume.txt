@@ -1,18 +1,13 @@
+MATHEMATICS TEACHER at _Woodland Jr/Sr High School_ in Baileyville Maine
+September 2016 - June 2018
 
-
-ERIC FAY
-
-
-MATHEMATICS TEACHER at _Baileyville High School_ in Down East Maine
-_September 2016 - June 2018_
-
--   Taught geometry, algebra, trigonometry, senior math, and computer
+-   Taught geometry, algebra, trigonometry, statistics, and computer
     science to students between the ages 14 through 18 years
 -   Created at least 80% of educational materials and assessments
 
 BACHELOR OF ARTS IN MATHEMATICS and BACHELOR OF SCIENCE IN PHYSICS from
 _Rutgers, The State University of New Jersey_
-_September 2012 - May 2016_
+September 2012 - May 2016
 
 -   Learned to write proofs and communicate abstract concepts precisely
 -   Presented 40 minute blackboard lectures
@@ -28,7 +23,7 @@ _September 2012 - May 2016_
 
 ASSOCIATE OF SCIENCE IN SCIENCE AND MATHEMATICS and ASSOCIATE OF SCIENCE
 IN PHYSICS from _Raritan Valley Community College_ in New Jersey
-_July 2011 - December 2012_
+July 2011 - December 2012
 
 -   Developed habits of independent learning
     -   started using online education resource such as MIT Open Course
@@ -41,10 +36,17 @@ _July 2011 - December 2012_
 
 VOLUNTEER TRAIL CREW MEMBER with _American Conservation Experience_
 based in Flagstaff Arizona
-_January 2011 - July 2011_
+January 2011 - July 2011
 
 THRU HIKER along the _Appalachian Trail_ from Geogria to Maine
-_April 2010 - September 2010_
+April 2010 - September 2010
 
 STUDIED COMPUTER SCIENCE at Rochester Insitute of Technology
-_September 2006 - June 2007_
+September 2006 - June 2007
+
+SKILLS(years-of-use): Python(4), Linux(12), Java(4), LaTeX(5), R(1),
+Javascript(2), HTML(3), C++(1), Linear Algebra(3), Mathematical
+Analysis(2), Machine Learning(1), Statistics(2)
+
+Certificates: HarvardX: Data Science Professional Certificate (8 of 9
+completed)
