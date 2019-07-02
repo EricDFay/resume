@@ -1,7 +1,7 @@
 ## Description
 This repository has two purposes:  
-1. publish my resume online
-2. demonstrate a workflow for publishing a markdown document into multiple formats
+1. Publish my resume online [HTML](http://htmlpreview.github.io/?https://github.com/EricDFay/resume/blob/master/pub/Eric_Fay_Resume.html) [pdf](https://github.com/EricDFay/resume/blob/master/pub/Eric_Fay_Resume.pdf) [txt](https://raw.githubusercontent.com/EricDFay/resume/master/pub/Eric_Fay_Resume.txt)
+2. Demonstrate a workflow for publishing a markdown document into multiple formats
 
 By modifying [this repository](https://github.com/EricDFay/resume.git)
 you can create a HTML, pdf, and text file from
