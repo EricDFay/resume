@@ -1,12 +1,10 @@
 #!/bin/bash
 
 markdown_source_file='src/resume.md'
-declare -A writer
-writer['pdf']='latex'
-writer['html']='html5'
-writer['txt']='plain'
+output_file_name='pub/Eric_Fay_Resume'
 
-for key in ${!writer[@]}; do
-    output_file="pub/Eric_Fay_Resume.${key}"
-    pandoc --standalone ${markdown_source_file} --to=${writer[${key}]} --output=${output_file}
-done
+pandoc ${markdown_source_file} --to='html5' --output="${output_file_name}.html" --standalone --metadata title="Eric Fay Resume"
+pandoc ${markdown_source_file} --to='latex' --output="${output_file_name}.pdf"
+pandoc ${markdown_source_file} --to='plain' --output="${output_file_name}.txt"
+
+cp ${markdown_source_file} "README.md"

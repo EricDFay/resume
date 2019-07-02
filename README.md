@@ -2,12 +2,14 @@
 
 **Mathematics Teacher** at _Baileyville High School_ in Down East Maine   
 *September 2016 - June 2018*  
+
    + Taught geometry, algebra, trigonometry, senior math, and computer science to students between the ages 14 through 18 years
    + Created at least 80% of educational materials and assessments
 
 
 **Bachelor of Arts in Mathematics** and **Bachelor of Science in Physics** from _Rutgers, The State University of New Jersey_  
 *September 2012 - May 2016*
+
    + Learned to write proofs and communicate abstract concepts precisely
    + Presented 40 minute blackboard lectures 
    + Attended advance and graduate courses, conferences, and seminars such as Biology Bootcamp 
@@ -20,6 +22,7 @@
 
 **Associate of Science in Science and Mathematics** and **Associate of Science in Physics** from _Raritan Valley Community College_ in New Jersey  
 *July 2011 - December 2012*
+
    + Developed habits of independent learning  
      + started using online education resource such as MIT Open Course Ware
      + Met after classes with friend to share knowledge
