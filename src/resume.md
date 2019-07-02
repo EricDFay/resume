@@ -1,9 +1,8 @@
 ---
-title: 'Eric Fay'
 geometry: margin=2cm
 ---
 
-
+# Eric Fay
 
 **Mathematics Teacher** at _Woodland Jr/Sr High School_ in Baileyville Maine   
 September 2016 - June 2018  
