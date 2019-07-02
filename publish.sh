@@ -8,5 +8,5 @@ writer['txt']='plain'
 
 for key in ${!writer[@]}; do
     output_file="pub/Eric_Fay_Resume.${key}"
-    pandoc ${markdown_source_file} --to=${writer[${key}]} --output=${output_file}
+    pandoc --standalone ${markdown_source_file} --to=${writer[${key}]} --output=${output_file}
 done
